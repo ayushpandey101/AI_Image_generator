@@ -2,6 +2,11 @@
 
 A simple and elegant web application that leverages the power of AI to generate stunning images from text prompts. This project allows you to bring your creative ideas to life, selecting from various models, aspect ratios, and image counts to customize your creations.
 
+---
+
+<img width="1482" height="786" alt="image" src="https://github.com/user-attachments/assets/b78aa208-4ea7-465f-908e-afec97530e5a" />
+
+---
 ## ✨ Features
 
   * **Text-to-Image Generation**: Convert your textual descriptions into high-quality images.
@@ -73,11 +78,5 @@ To get this project running on your local machine, follow these simple steps.
       * Type a descriptive prompt into the input field or click the "Surprise Me" button.
       * Select your desired AI model, image count, and aspect ratio.
       * Click the "Generate" button and watch your ideas come to life\!
-
------
-
-## 🖼️ Screenshots
-
-<img width="1482" height="786" alt="image" src="https://github.com/user-attachments/assets/b78aa208-4ea7-465f-908e-afec97530e5a" />
 
 -----
